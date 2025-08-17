@@ -1,5 +1,6 @@
 - Contributors -
 ----------------
+Dev Sharma
 Alexandr Hladyshenko
 Alexandre Menezes
 Alexey Dyatlov
